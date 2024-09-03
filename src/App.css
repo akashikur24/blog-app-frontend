@@ -1,0 +1,23 @@
+.blog-body {
+  margin: 0px 5%;
+  margin-top: 40px;
+}
+.blog-body h3 {
+  text-align: center;
+}
+.list-users {
+  margin: 0px 10%;
+  margin-top: 40px;
+}
+
+.list-users h3 {
+  text-align: center;
+  margin-bottom: 70px;
+}
+.loader-posistion {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
